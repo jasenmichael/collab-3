@@ -19,5 +19,13 @@ nav {
 nav a {
   text-decoration: none;
   color: darkgrey;
-  font-size:
+}
+h4 {
+  font-size: 140px;
+  color: blue;
+  text-align: center
+}
+p {
+  color: red;
+  text-align: center;
 }
