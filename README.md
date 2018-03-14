@@ -14,8 +14,8 @@
 1. [x] You should edit an HTML file. Add a paragraph about something you like.
     - [x] Jasen added a paragraph to index.html
 
-2. [X] You should create a new CSS file. Link to it from one of your HTML files.
-    - [X] Owen added new.css and linked it to about.html
+2. [x] You should create a new CSS file. Link to it from one of your HTML files.
+    - [x] Owen added new.css and linked it to about.html
 
 3. [x] Slack your partner. You should both create an array of numbers in a Javascript file, if there isn't one. Write a function that multiplies them together.
     - [x] Jasen created an array of numbers and a function to add them.
