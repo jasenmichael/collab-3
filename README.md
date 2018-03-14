@@ -19,13 +19,13 @@
 
 3. [x] Slack your partner. You should both create an array of numbers in a Javascript file, if there isn't one. Write a function that multiplies them together.
     - [x] Jasen created an array of numbers and a function to add them.
-    - [X] Owen created an array of numbers
+    - [x] Owen created an array of numbers
 
-4. [X] You should edit five CSS properties.
-    - [X] Owen edited 5 css properties in style.css
+4. [x] You should edit five CSS properties.
+    - [x] Owen edited 5 css properties in style.css
 
-5. [ ] task here.....
-    - [ ] who did what...
+5. [x] You should remove a file other than index.html.
+    - [x] Jasen deleted about.html
 
 
 
