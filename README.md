@@ -19,7 +19,7 @@
 
 3. [x] Slack your partner. You should both create an array of numbers in a Javascript file, if there isn't one. Write a function that multiplies them together.
     - [x] Jasen created an array of numbers and a function to add them.
-    - [ ] Owen created an array of numbers
+    - [X] Owen created an array of numbers
 
 4. [ ] task here.....
     - [ ] who did what...
